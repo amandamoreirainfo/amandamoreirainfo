@@ -7,8 +7,7 @@
 
 ![Amanda Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=amandamoreirainfo&show_icons=true&theme=dracula)
 
-
-## Tecnologias que eu uso no meu dia
+<br/>
 
 <div style="display: inline_block">
 
