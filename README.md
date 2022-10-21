@@ -21,3 +21,8 @@
 
 
 </div>
+
+<br/>
+
+![Snake animation](http://github.com/amandamoreirainfo/amandamoreirainfo/blob/output/github-contribution-grid-snake.svg)
+
