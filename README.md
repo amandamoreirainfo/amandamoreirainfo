@@ -24,5 +24,5 @@
 
 <br/>
 
-![Snake animation](http://github.com/amandamoreirainfo/amandamoreirainfo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/amandamoreirainfo/amandamoreirainfo/blob/output/github-contribution-grid-snake.svg)
 
