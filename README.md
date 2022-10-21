@@ -5,7 +5,7 @@
 
 <br/>
 
-![Amanda Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=amandamoreirainfo&show_icons=true&theme=light)
+![Amanda Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=amandamoreirainfo&show_icons=true&theme=dracula)
 
 <br/>
 
