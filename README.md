@@ -5,7 +5,6 @@
 
 <br/>
 
-![Amanda Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=amandamoreirainfo&show_icons=true&theme=dracula)
 
 <br/>
 
@@ -18,7 +17,6 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  
 
 
 </div>
