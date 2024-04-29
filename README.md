@@ -5,7 +5,7 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://postimg.cc/473kjFs9">
-    <img src="https://i.postimg.cc/XJfjGTPQ/n1-WGOiu-Imgur.jpg" alt="n1-WGOiu-Imgur.jpg">
+    <img src="https://i.postimg.cc/XJfjGTPQ/n1-WGOiu-Imgur.jpg" alt="n1-WGOiu-Imgur.jpg" style="display: flex; justify-content: center;">
   </a>
 </div>
 
