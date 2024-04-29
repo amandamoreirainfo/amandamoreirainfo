@@ -32,6 +32,8 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+[!Snake animation](https://github.con/amandamoreirainfo/amandamoreirainfo/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
