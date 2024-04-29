@@ -3,14 +3,11 @@
 
 #### I'm passionate about software development and I see each project as an opportunity to grow and exceed expectations. 
 
-<center>
-  <div style="display: flex; justify-content: center;">
-    <a href="https://postimg.cc/473kjFs9">
-      <img src="https://i.postimg.cc/XJfjGTPQ/n1-WGOiu-Imgur.jpg" alt="n1-WGOiu-Imgur.jpg">
-    </a>
-  </div>
-</center>
-
+<div style="display: flex; justify-content: center;">
+  <a href="https://postimg.cc/473kjFs9">
+    <img src="https://i.postimg.cc/XJfjGTPQ/n1-WGOiu-Imgur.jpg" alt="n1-WGOiu-Imgur.jpg">
+  </a>
+</div>
 
 ## Connect with me through:
 
