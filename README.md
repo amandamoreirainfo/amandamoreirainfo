@@ -3,7 +3,7 @@
 
 #### I'm passionate about software development and I see each project as an opportunity to grow and exceed expectations. 
 
-![Image](https://i.imgur.com/zakHhV8.jpg)
+![Image](https://postimg.cc/XZyYmmvz)
 
 ## Connect with me through:
 
