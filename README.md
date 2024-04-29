@@ -11,9 +11,9 @@
 
 ## 📈 GitHub Stats: 
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandamoreirainfo&theme=dark&show_icons=true" alt="GitHub Stats" style="flex: 1; margin-right: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandamoreirainfo&layout=compact&theme=dark" alt="Top Langs" style="flex: 1; margin-left: 5px;">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=amandamoreirainfo&theme=dark&show_icons=true" alt="GitHub Stats" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandamoreirainfo&layout=compact&theme=dark" alt="Top Langs" style="width: 48%;">
 </div>
 
 ## 📈 Soft Kills:
